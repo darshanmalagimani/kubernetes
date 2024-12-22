@@ -1,6 +1,6 @@
 # Kubernetes Cluster Installation using kubeadm
-Step 1 : Choosing a Container Runtime
-
+# Step 1 : Choosing a Container Runtime
+sudo su
 # Enabling IPV4 Packet Forwarding
 
 # To manually enable IPv4 packet forwarding:
